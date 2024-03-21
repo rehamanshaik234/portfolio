@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: poppin;
+  src: url("../public/Poppins/Poppins-Regular.ttf");
+}
+
+.poppin {
+  font-size: poppin;
+}
